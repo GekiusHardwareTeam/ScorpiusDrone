@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/append=true
+environment/buildEnvironmentInclude/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/appendContributed=true
+environment/buildEnvironmentLibrary/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/append=true
+environment/buildEnvironmentLibrary/com.intel.iotdevkit.ide.config.gnu.generic.config.so.debug.1433323632/appendContributed=true
