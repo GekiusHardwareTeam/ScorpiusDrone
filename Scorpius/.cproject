@@ -28,6 +28,7 @@
 								<option id="gnu.c.compiler.option.debugging.level.1319327262" name="Debug Level" superClass="gnu.c.compiler.option.debugging.level" value="gnu.c.debugging.level.max" valueType="enumerated"/>
 								<option id="com.intel.iotdevkit.ide.gnu.c.option.include.paths.959740895" name="Include paths (-I)" superClass="com.intel.iotdevkit.ide.gnu.c.option.include.paths" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;D:\works\libs\IntelEdison\iotdk-ide-win\iotdk-ide-win\devkit-x86\sysroots\i586-poky-linux\usr\include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;D:\works\libs\common\Gekius\include&quot;"/>
 								</option>
 								<option id="gnu.c.compiler.option.dialect.std.1909318162" name="Language standard" superClass="gnu.c.compiler.option.dialect.std" value="gnu.c.compiler.dialect.default" valueType="enumerated"/>
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.717831885" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
@@ -61,10 +62,7 @@
 						<toolChain id="com.intel.iotdevkit.ide.toolchain.gnu.generic.toolchain.so.debug.2027049478" name="IoT Cross GCC" superClass="com.intel.iotdevkit.ide.toolchain.gnu.generic.toolchain.so.debug" unusedChildren="">
 							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="cdt.managedbuild.targetPlatform.gnu.cross" isAbstract="false" osList="all" superClass="cdt.managedbuild.targetPlatform.gnu.cross"/>
 							<tool id="com.intel.iotdevkit.ide.tool.gnu.cross.c.compiler.1123657485" name="Cross GCC Compiler" superClass="com.intel.iotdevkit.ide.tool.gnu.cross.c.compiler.215495689">
-								<option id="com.intel.iotdevkit.ide.gnu.c.option.include.paths.454277466" name="Include paths (-I)" superClass="com.intel.iotdevkit.ide.gnu.c.option.include.paths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;${PROJECT_LOC}/include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${PROJECT_LOC}&quot;"/>
-								</option>
+								
 								<inputType id="cdt.managedbuild.tool.gnu.c.compiler.input.1704727811" superClass="cdt.managedbuild.tool.gnu.c.compiler.input"/>
 							</tool>
 							<tool id="com.intel.iotdevkit.ide.tool.gnu.cross.cpp.compiler.11487469" name="Cross G++ Compiler" superClass="com.intel.iotdevkit.ide.tool.gnu.cross.cpp.compiler.1198426308">
